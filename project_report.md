@@ -92,7 +92,7 @@ The analysis examined the company's sales performance, customer behaviour, and c
 
 The analysis also identified clear seasonal sales patterns, with Q4 consistently outperforming other quarters and Q1 generating the lowest revenue. Approximately 92% of customer records were classified as not churned, although young adults had a higher churn rate than other age groups. Subscription status did not appear to have a meaningful relationship with average purchase amounts or customer ratings. Additionally, middle-aged non-subscribers represented an important customer segment, generating the highest total revenue.
 
-In terms of customer satisfaction, average review ratings were generally positive. However, some products presented opportunities for improvement. Sweaters generated the highest revenue but also had a substantial number of low reviews, while sandals had the highest percentage of low ratings. Accessories received the highest average category rating despite contributing the least to total revenue.
+In terms of customer satisfaction, average review ratings were generally positive. However, some products presented opportunities for improvement. Sweaters generated the highest revenue but also had a substantial number of low reviews. Accessories received the highest average category rating despite contributing the least to total revenue.
 
 Based on these findings, the company should consider the following recommendations:
 
