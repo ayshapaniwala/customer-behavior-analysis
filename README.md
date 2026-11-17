@@ -11,4 +11,4 @@ Data is from Kaggle https://www.kaggle.com/datasets/timcii/clothing-store-sales-
 - **PostgreSQL:** Data storage, querying, aggregation, and exploratory analysis using SQL
 - **Power BI:** Interactive dashboard development and data visualization
 
-**Project Status:** In progress
+**Project Status:** Completed
